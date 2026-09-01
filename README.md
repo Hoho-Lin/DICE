@@ -6,7 +6,7 @@ This repository hosts the **technical report** of **DICE**, a novel blockchain-p
 
 ## Overview
 
-Customizing Pretrained Models (PMs) for downstream tasks demands task-specific data, which burgeoning Web3 applications provide abundantly. Blockchain-powered federated learning (BCFL) offers a secure and privacy-preserving paradigm to customize PMs among **self-interested** and **untrusted** Web3 participants. Yet, existing BCFL algorithms face severe **efficiency** and **scalability** challenges when applied to large PMs, due to their substantial computational and memory requirements and the hardware constraints of many participants. 
+Customizing Pretrained Models (PMs) for downstream tasks demands task-specific data, which burgeoning Web3 applications provide abundantly. Blockchain-powered federated learning (BCFL) offers a secure and privacy-preserving paradigm to customize PMs among **self-interested** and **untrusted** Web3 participants. Yet, existing BCFL algorithms face severe **efficiency** and **scalability** challenges when applied to large PMs, due to their substantial computational and memory requirements and the **hardware constraints** of many participants. 
 
 **DICE** is a novel BCFL algorithm that addresses the efficiency and scalability challenges of customizing large PMs in Web3 via two sets of synergistic techniques: 
 
