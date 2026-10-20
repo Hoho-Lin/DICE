@@ -21,10 +21,10 @@ Customizing Pretrained Models (PMs) for downstream tasks demands task-specific d
 If you use DICE or the technical report in your research, please cite:
 
 ```bibtex
-@article{lin2026dice,
+@inproceedings{lin2026dice,
   title   = {DICE: Decentralized Incentive-driven Federated Learning for Efficient & Scalable Customization of Pretrained Models in Web3},
   author  = {Hong Lin, Zhongle Xie, Lidan Shou, Ke Chen, Gang Chen},
-  journal = {Proceedings of the 35th ACM International Conference on Information and Knowledge Management (CIKM '26)},
+  booktitle = {Proceedings of the 35th ACM International Conference on Information and Knowledge Management (CIKM '26)},
   year    = {2026},
   doi     = {10.1145/3799682.3840574}
 }
